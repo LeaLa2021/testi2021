@@ -1,4 +1,4 @@
 package data;
 new teksti;
 
-newer text;
+old teksti;
