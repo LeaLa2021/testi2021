@@ -6,6 +6,14 @@ public class Testi {
 
 	//Some other wrote this!
 	
+
+	// Tuire testaa
+
 	//Hello!!
+	
+	// tämä on taas uusi testaus
+	
+	// tiistain testaus
+
 
 }

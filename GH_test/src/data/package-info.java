@@ -1,2 +1,7 @@
 package data;
+
 new teksti;
+
+
+
+
